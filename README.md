@@ -17,4 +17,4 @@ If you find any errors or have suggestions for improving the materials in this r
 This repository is inspired by the Data Science Masters 2.0 program offered by PW Skills.
 
 # License
-This repository is licensed under the MIT License. See the LICENSE file for details.
+No Licence.
